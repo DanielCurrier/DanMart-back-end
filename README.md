@@ -13,6 +13,8 @@ This project is a practice of the Sequelize ORM to create a backend  for an e-co
 N/A
 ## Instructions
 To use this program, you must first use mysql credentials (stored in a .env file) to source the database. Once that is complete, be sure to all dependencies referenced in the package.json file. With that complete, the backend should function properly. IN your CLI, type in "npm run seed" to seed the database with information, and then type "npm run watch" to use nodemon to run a live instance of the backend. To test the routes, use either Insomnia or ThunderClient to create test queries to use the routes available! Below is a video that shows what that looks like in action:
+https://www.youtube.com/watch?v=X1eDvF9J9jw&ab_channel=DanCurrier
+
 ## Credits
 N/A
 ## License
