@@ -8,6 +8,8 @@
 *[Contact](#contact)
 
 # Description
+![DanMart-Backend_Moment](https://user-images.githubusercontent.com/112973907/220778106-29a20f18-0232-41e8-893d-e72734abf701.jpg)
+
 This project is a practice of the Sequelize ORM to create a backend  for an e-commerce website. In addition to this, its routes have been fully tested via ThunderClient, a lightweight alternative to Insomnia and Postman. To see how this program works in action, please refer to the Instructions section below!
 ## Installation
 N/A
